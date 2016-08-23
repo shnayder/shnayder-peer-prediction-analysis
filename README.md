@@ -2,7 +2,7 @@
 
 This repo contains code for analyzing peer prediction algorithms on data from peer assessment in MOOCs. It also includes a summarized version of that dataset.
 
-For more details about the dataset and the analyses done with it, see [Victor's dissertation](https://www.eecs.harvard.edu/~shnayder/papers/dissertation.pdf), or the [HCOMP paper](https://www.eecs.harvard.edu/~shnayder/papers/shnayder-hcomp16.pdf).
+For more details about the dataset and the analyses done with it, see [Victor's dissertation](https://www.eecs.harvard.edu/~shnayder/papers/shnayder-dissertation.pdf), or the [HCOMP paper](https://www.eecs.harvard.edu/~shnayder/papers/shnayder-hcomp16.pdf).
 
 # Summarized dataset
 
